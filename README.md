@@ -9,7 +9,7 @@
 - 🎯 Aiming for excellence in FAANG-level problem-solving
 
 - 📫 How to reach me: 
-  - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/sivaramakrishnan-s06)(https://www.linkedin.com/authwall?trk=bf&trkInfo=AQEWSj6R8zU30gAAAZS2BpAY_k8SDYocWinAXy1uSAS4phmhVCy6LX8LDSfreYSatz04Xj9HwtSYBsVAEktpuZBF03rSdWrj4jAYHcO7Arn-ROtPUO5y2p710PqgsQpkY87A1oQ=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsivaramakrishnan-s-54693b276%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app))
+  - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/sivaramakrishnan-s06)
 
 ### 🛠 I code in:
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50"  src="https://img.icons8.com/color/48/000000/mysql-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" />
